@@ -6,13 +6,13 @@ Small client library to use [semaphore.co](http://semaphore.co) API in node.js
 Install the npm in your project
 
 ```bash
-> npm install semaphore
+> npm install semaphore-sms
 ```
 
 Example usage:
 
 ```javascript
-var semaphore = require('semaphore');
+var semaphore = require('semaphore-sms');
 
 semaphore.set_api_key("...");
 

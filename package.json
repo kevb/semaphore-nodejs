@@ -1,5 +1,5 @@
 {
-  "name": "semaphore",
+  "name": "semaphore-sms",
   "version": "0.0.1",
   "description": "Small client library to use semaphore.co API in node.js",
   "main": "index.js",
