@@ -39,3 +39,7 @@ semaphore.send_sms(numbers, message, sender, callback)
 | message     | String           | The message body, 140 chars max |
 | sender      | String           | The sender name |
 | callback    | Function         | A callback function. The only param will be a JSON object returned from the semaphore API |
+
+##Tests
+
+Add your api key to tests/test.js then run `npm test`
